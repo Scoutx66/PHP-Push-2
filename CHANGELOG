@@ -1,3 +1,7 @@
+2012-10-24 <fmbiete at gmail dot com>
+    Core
+    * Infinite loop in GetAttachment -> backport from developing
+
 2012-10-12 <fmbiete at gmail dot com>
     BackendIMAP - AES 12+
     * Flag support: messages can be starred in the client, and the change is reflexed in the server
